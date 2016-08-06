@@ -229,7 +229,7 @@ DEPENDENCIES
   haml-rails
   jbuilder (= 2.2.3)
   jquery-rails (= 4.0.3)
-  launchy (~> 2.4.2)
+  launchy (= 2.4.3)
   pg
   rails (= 4.2.2)
   rails_12factor (= 0.0.2)
