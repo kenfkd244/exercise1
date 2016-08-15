@@ -6,7 +6,6 @@ RSpec.describe StaticPagesController, type: :controller do
     it "returns http success" do
       visit "/"
       expect(response).to have_http_status(:success)
-      expect(page).to have_content("Sample App")
     end
   end
 
